@@ -4,7 +4,7 @@ title: >
 author: "Ronald 'Ryy' G. Thomas"
 date: today
 draft: false
-image: "media/images/hero.jpg"
+image: "media/images/hero.png"
 document-type: "blog"
 categories: [r, data-visualization]
 description: >
@@ -26,7 +26,7 @@ cluster-order: 7
 
 ![Functional programming tools bring order to
 repetitive plotting tasks.
-](media/images/hero.jpg){.img-fluid width=80% fig-align="center"}
+](media/images/hero.png){.img-fluid width=80% fig-align="center"}
 
 *Generating publication-quality plot grids without
 writing the same code three times.*
