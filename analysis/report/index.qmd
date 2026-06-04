@@ -3,7 +3,7 @@ title: >
   Functional Plot Generation with purrr
 author: "Ronald 'Ryy' G. Thomas"
 date: today
-draft: false
+draft: true
 image: "media/images/hero.png"
 document-type: "blog"
 categories: [r, data-visualization]
@@ -231,7 +231,7 @@ labels). Keeping the function minimal makes it
 reusable across different layouts.
 
 ![Iterating with purpose across data
-strata.](media/images/ambiance2.jpg){.img-fluid}
+strata.](media/images/ambiance2.png){.img-fluid}
 
 # Mapping Across Species and Variable Pairs
 
@@ -429,7 +429,7 @@ produce a clean, readable composite figure.
    adequate representation.
 
 ![Assembling the pieces into a coherent
-whole.](media/images/ambiance3.jpg){.img-fluid}
+whole.](media/images/ambiance3.png){.img-fluid}
 
 # What Did We Learn?
 
