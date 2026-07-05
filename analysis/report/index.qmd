@@ -3,7 +3,7 @@ title: >
   Functional Plot Generation with purrr
 author: "Ronald G. Thomas"
 date: today
-draft: false
+draft: true
 image: "media/images/hero.png"
 document-type: "blog"
 categories: [r, data-visualization]
