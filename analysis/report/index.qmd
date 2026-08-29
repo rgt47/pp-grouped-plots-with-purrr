@@ -6,7 +6,7 @@ categories: [r, data-visualization]
 description: "I did not really know how to programmatically generate multiple plots from grouped data until I discovered purrr's map2 and pmap functions -- this post walks through the approach step by step using Palmer Penguins."
 image: "media/images/hero.png"
 document-type: "blog"
-draft: true
+draft: false
 execute:
   echo: true
   warning: false
