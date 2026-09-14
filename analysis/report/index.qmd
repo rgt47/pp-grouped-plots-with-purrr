@@ -3,7 +3,7 @@ title: "Functional Plot Generation with purrr"
 author: "Ronald G. Thomas"
 date: "2026-05-01"
 categories: [r, data-visualization]
-description: "I did not really know how to programmatically generate multiple plots from grouped data until I discovered purrr's map2 and pmap functions -- this post walks through the approach step by step using Palmer Penguins."
+description: "Generating multiple plots from grouped data programmatically is a job for purrr's map2 and pmap functions. This post walks through the approach step by step using Palmer Penguins."
 image: "media/images/hero.png"
 document-type: "blog"
 draft: false
@@ -24,9 +24,10 @@ writing the same code three times.*
 
 # Introduction
 
-I did not really know how to programmatically generate
-multiple plots from grouped data until I started working
-with the Palmer Penguins dataset. The task seemed
+Generating multiple plots from grouped data
+programmatically is a recurring task, and the Palmer
+Penguins dataset is a good place to work it out. The
+task seemed
 straightforward: produce scatter plots for every pairwise
 combination of numeric variables, separately for each
 penguin species, and then assemble them into a single
