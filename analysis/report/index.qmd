@@ -339,7 +339,7 @@ We create text labels for each species using
 #|   Pairwise scatter plots for four numeric
 #|   penguin measurements, stratified by species.
 #|   Each row group shows one species with a LOESS
-#|   smooth and points coloured by sex.
+#|   smooth and points colored by sex.
 #| fig-alt: >
 #|   A grid of 18 scatter plots arranged in three
 #|   upper-triangular blocks, one per penguin
